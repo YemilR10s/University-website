@@ -1,0 +1,22 @@
+/* ********** GOOGLE FONTS LETTERS STYLES ******** */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: "Roboto", sans-serif;
+}
+
+:root{
+    --blackColor: #000000;
+    --blackTransparent:#00000030;
+    --background2: #f8f8f8;
+    --celesteColor: #1eb2a6;
+    --whiteColor: white;
+    --transparent: rgba(242, 242, 242, 0.121);
+}
