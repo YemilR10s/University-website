@@ -1,5 +1,6 @@
 import { Banner } from "../components/banner"
 import { Benefits } from "../components/benefits"
+import { Courses } from "../components/courses"
 import "../styles/header.css"
 export const HeaderPage = () => {
 
@@ -38,6 +39,7 @@ export const HeaderPage = () => {
     </div>
     <Benefits/>
     <Banner/>
+    <Courses/>
     </>
   )
 }
