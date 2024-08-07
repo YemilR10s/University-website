@@ -8,7 +8,7 @@ export const HeaderPage = () => {
   return (
     <>
                     {/* Header container */}
-    <div className="header-container">
+    <main className="header-container">
                     {/* header content */}
       <div className="content">
                     {/* content items */}
@@ -36,7 +36,7 @@ export const HeaderPage = () => {
         <div className="img"></div>
       </div>
       </div>
-    </div>
+    </main>
     <Benefits/>
     <Banner/>
     <Courses/>

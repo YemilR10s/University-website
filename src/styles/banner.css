@@ -4,6 +4,7 @@
     background-image: url(/banner-img.jpg);
     background-position: center;
     background-size: cover;
+    background-attachment: fixed;
     display: flex;
     justify-content: space-around;
     align-items: center;
